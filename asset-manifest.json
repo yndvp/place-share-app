@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/place-share-app/static/css/main.506b979e.chunk.css",
+    "main.js": "/place-share-app/static/js/main.6bfc0978.chunk.js",
+    "main.js.map": "/place-share-app/static/js/main.6bfc0978.chunk.js.map",
+    "runtime-main.js": "/place-share-app/static/js/runtime-main.4c985d78.js",
+    "runtime-main.js.map": "/place-share-app/static/js/runtime-main.4c985d78.js.map",
+    "static/js/2.9bf9a4f0.chunk.js": "/place-share-app/static/js/2.9bf9a4f0.chunk.js",
+    "static/js/2.9bf9a4f0.chunk.js.map": "/place-share-app/static/js/2.9bf9a4f0.chunk.js.map",
+    "index.html": "/place-share-app/index.html",
+    "precache-manifest.45e8af35f7c5b5f996af1854a0e2211d.js": "/place-share-app/precache-manifest.45e8af35f7c5b5f996af1854a0e2211d.js",
+    "service-worker.js": "/place-share-app/service-worker.js",
+    "static/css/main.506b979e.chunk.css.map": "/place-share-app/static/css/main.506b979e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c985d78.js",
+    "static/js/2.9bf9a4f0.chunk.js",
+    "static/css/main.506b979e.chunk.css",
+    "static/js/main.6bfc0978.chunk.js"
+  ]
+}
